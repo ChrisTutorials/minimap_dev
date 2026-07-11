@@ -1,0 +1,5 @@
+# Godot editor / import artifacts
+.godot/
+
+# Regenerated per-machine on import
+*.uid
